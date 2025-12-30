@@ -1,1 +1,2 @@
-**this is a sample repo for learning hithub**
+**This is a sample repo for learning hithub**
+
